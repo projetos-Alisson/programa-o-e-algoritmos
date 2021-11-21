@@ -1,2 +1,2 @@
-# programa-o-e-algoritmos
+# programação e algoritmos
 Repositório dedicado as aulas do curso
